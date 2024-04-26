@@ -6,6 +6,9 @@
 ## Project Demo: 
 https://www.canva.com/design/DAFwp9WDFe8/amOGVUIbsqAt8Lwv-9PCVw/edit?utm_content=DAFwp9WDFe8&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton
 
+## Figma prototype
+https://www.figma.com/proto/AeugWEHs3g59X2w7xCacqX/Firedots?page-id=0%3A1&type=design&node-id=12-864&viewport=485%2C229%2C0.15&t=sYblvf9BPJ4IPQoJ-1&scaling=scale-down&starting-point-node-id=12%3A778&mode=design
+
 ## Final Project:
 https://drive.google.com/drive/folders/18rBPKtIgIovTso1ERetSCJbqn3lmy8n9
 
